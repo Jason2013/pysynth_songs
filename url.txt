@@ -1,3 +1,9 @@
+﻿Python3使用PySynth制作音乐
+https://www.linuxidc.com/Linux/2019-09/160567.htm
+
+用python3制作音乐的探索
+https://blog.csdn.net/qq_37408031/article/details/78543517
+
 小小音乐家（安波词 达尼曲）
 http://www.051661.com/ertonggequ/gepu/174/15908.html
 
